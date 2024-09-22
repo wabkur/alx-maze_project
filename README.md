@@ -19,8 +19,6 @@ This project includes:
 - A focus on modular, well-organized code with strict style guidelines.
 
 ## Requirements
-- **Operating System:** Ubuntu 14.04 LTS
-- **Compiler:** gcc 4.8.4
 - **Libraries:**
   - SDL2
   - SDL2 image (optional)
