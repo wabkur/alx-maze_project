@@ -1,7 +1,6 @@
 # Maze Project
 
 ![maze-project](https://github.com/Princecodes4115/Maze_Project/assets/101392395/78b99351-e499-44c2-a42c-7e795e2ed82d)
-"./images/hq720.jpg"
 
 ## Table of Contents
 - [Project Description]
